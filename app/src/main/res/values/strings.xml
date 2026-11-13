@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Aruna</string>
+    <string name="nav_chat">Obrolan</string>
+    <string name="nav_memory">Memori</string>
+    <string name="nav_skills">Skill</string>
+    <string name="nav_tasks">Jadwal</string>
+    <string name="nav_settings">Setelan</string>
+    <string name="action_new_chat">Obrolan Baru</string>
+    <string name="action_compact">Compact</string>
+    <string name="action_send">Kirim</string>
+    <string name="action_attach_photo">Lampirkan Foto</string>
+    <string name="action_attach_file">Lampirkan Berkas</string>
+    <string name="action_approve">Setuju</string>
+    <string name="action_reject">Tolak</string>
+    <string name="action_save_skill">Simpan sebagai Skill</string>
+    <string name="chat_placeholder">Tulis pesan atau perintah untuk Aruna…</string>
+    <string name="empty_chat_title">Halo, saya Aruna</string>
+    <string name="empty_chat_subtitle">Asisten pribadi adaptif Anda. Siapkan provider LLM di Setelan atau mulai obrolan baru di bawah.</string>
+</resources>

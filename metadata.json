@@ -1,0 +1,6 @@
+{
+  "name": "Aruna",
+  "description": "Asisten AI pribadi adaptif multi-provider dengan memori jangka panjang, katalog skill, tool calling, dan tugas terjadwal lokal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
